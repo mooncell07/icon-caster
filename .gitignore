@@ -1,0 +1,8 @@
+*.pyc
+.vscode/
+dist/
+.idea/
+test.py
+site
+.mypy_cache
+tests/
